@@ -149,3 +149,4 @@ error code: 1015
 {"jsonrpc":"2.0","id":1,"result":"0x5bd71e8c0"}
 {"jsonrpc":"2.0","id":1,"result":"0x66bbe2e9b"}
 {"jsonrpc":"2.0","id":1,"result":"0x6cf465d44"}
+{"error":"{\"Error_GUID\":\"5754238323279523483\",\"Error\":\"Failed all retries {GUID:5754238323279523483,error:No pairings available.,chain_id:ETH1}\"}"}
