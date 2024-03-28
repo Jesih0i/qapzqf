@@ -272,3 +272,4 @@ error code: 1015
 {"jsonrpc":"2.0","id":1,"result":"0x93ce7470f"}
 {"error":"{\"Error_GUID\":\"11859190086526355659\",\"Error\":\"Failed all retries {GUID:11859190086526355659,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x9647edd64"}
+{"jsonrpc":"2.0","id":1,"result":"0x869626fec"}
