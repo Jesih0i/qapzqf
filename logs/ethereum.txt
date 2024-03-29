@@ -315,3 +315,4 @@ error code: 1015
 {"jsonrpc":"2.0","id":1,"result":"0x5040b70ac"}
 {"jsonrpc":"2.0","id":1,"result":"0x5190048a9"}
 {"jsonrpc":"2.0","id":1,"result":"0x509d04ac1"}
+{"error":"{\"Error_GUID\":\"17098384049521357218\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:17098384049521357218}\"}"}
